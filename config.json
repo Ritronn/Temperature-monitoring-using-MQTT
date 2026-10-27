@@ -1,0 +1,28 @@
+{
+  "mqtt_broker_host": "localhost",
+  "mqtt_broker_port": 1883,
+  "default_threshold": 50.0,
+  "database_path": "thermosense.db",
+  "websocket_port": 8000,
+  "sensor": {
+    "device_id": "sensor-001",
+    "publish_interval": 2.0,
+    "temperature_min": 20.0,
+    "temperature_max": 32.0
+  },
+  "logging": {
+    "level": "INFO",
+    "file_path": "logs/thermosense.log",
+    "max_bytes": 10485760,
+    "backup_count": 5
+  },
+  "smtp": {
+    "enabled": true,
+    "host": "smtp.gmail.com",
+    "port": 587,
+    "user": "gojoritron@gmail.com",
+    "password": "zvgtzzrwkztumdwk",
+    "recipient": "rutvikkale2006@gmail.com",
+    "use_tls": true
+  }
+}

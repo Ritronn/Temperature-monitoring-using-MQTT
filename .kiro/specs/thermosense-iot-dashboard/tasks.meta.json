@@ -1,0 +1,633 @@
+{
+  "pbtResults": {},
+  "executionHistory": {
+    "1. Project structure and configuration setup": [
+      {
+        "executionId": "fdf87b49-a957-4617-9842-e49388e77e70",
+        "chatSessionId": "sess_634101db-e3de-476d-8be6-c6f4654c6648",
+        "timestamp": 1793030710397
+      },
+      {
+        "executionId": "fdf87b49-a957-4617-9842-e49388e77e70",
+        "chatSessionId": "sess_634101db-e3de-476d-8be6-c6f4654c6648",
+        "timestamp": 1793030730978
+      },
+      {
+        "executionId": "ca7f2679-1c6d-4a31-bf77-335bde570dda",
+        "chatSessionId": "sess_634101db-e3de-476d-8be6-c6f4654c6648",
+        "timestamp": 1793031597719
+      },
+      {
+        "executionId": "ca7f2679-1c6d-4a31-bf77-335bde570dda",
+        "chatSessionId": "sess_634101db-e3de-476d-8be6-c6f4654c6648",
+        "timestamp": 1793032320448
+      }
+    ],
+    "2.1 Implement configuration loading and validation in `backend/config.py`": [
+      {
+        "executionId": "fdf87b49-a957-4617-9842-e49388e77e70",
+        "chatSessionId": "sess_634101db-e3de-476d-8be6-c6f4654c6648",
+        "timestamp": 1793030710614
+      },
+      {
+        "executionId": "ca7f2679-1c6d-4a31-bf77-335bde570dda",
+        "chatSessionId": "sess_634101db-e3de-476d-8be6-c6f4654c6648",
+        "timestamp": 1793032329212
+      },
+      {
+        "executionId": "ca7f2679-1c6d-4a31-bf77-335bde570dda",
+        "chatSessionId": "sess_634101db-e3de-476d-8be6-c6f4654c6648",
+        "timestamp": 1793033665963
+      }
+    ],
+    "3.1 Implement logging configuration in backend": [
+      {
+        "executionId": "fdf87b49-a957-4617-9842-e49388e77e70",
+        "chatSessionId": "sess_634101db-e3de-476d-8be6-c6f4654c6648",
+        "timestamp": 1793030710698
+      },
+      {
+        "executionId": "ca7f2679-1c6d-4a31-bf77-335bde570dda",
+        "chatSessionId": "sess_634101db-e3de-476d-8be6-c6f4654c6648",
+        "timestamp": 1793032329922
+      },
+      {
+        "executionId": "ca7f2679-1c6d-4a31-bf77-335bde570dda",
+        "chatSessionId": "sess_634101db-e3de-476d-8be6-c6f4654c6648",
+        "timestamp": 1793033666788
+      }
+    ],
+    "4.1 Create database manager in `backend/database.py`": [
+      {
+        "executionId": "fdf87b49-a957-4617-9842-e49388e77e70",
+        "chatSessionId": "sess_634101db-e3de-476d-8be6-c6f4654c6648",
+        "timestamp": 1793030710808
+      },
+      {
+        "executionId": "ca7f2679-1c6d-4a31-bf77-335bde570dda",
+        "chatSessionId": "sess_634101db-e3de-476d-8be6-c6f4654c6648",
+        "timestamp": 1793033674783
+      },
+      {
+        "executionId": "ca7f2679-1c6d-4a31-bf77-335bde570dda",
+        "chatSessionId": "sess_634101db-e3de-476d-8be6-c6f4654c6648",
+        "timestamp": 1793034219172
+      }
+    ],
+    "4.2 Implement database write operations": [
+      {
+        "executionId": "fdf87b49-a957-4617-9842-e49388e77e70",
+        "chatSessionId": "sess_634101db-e3de-476d-8be6-c6f4654c6648",
+        "timestamp": 1793030710871
+      },
+      {
+        "executionId": "ca7f2679-1c6d-4a31-bf77-335bde570dda",
+        "chatSessionId": "sess_634101db-e3de-476d-8be6-c6f4654c6648",
+        "timestamp": 1793034244643
+      },
+      {
+        "executionId": "ca7f2679-1c6d-4a31-bf77-335bde570dda",
+        "chatSessionId": "sess_634101db-e3de-476d-8be6-c6f4654c6648",
+        "timestamp": 1793035133492
+      }
+    ],
+    "4.3 Implement database query operations": [
+      {
+        "executionId": "fdf87b49-a957-4617-9842-e49388e77e70",
+        "chatSessionId": "sess_634101db-e3de-476d-8be6-c6f4654c6648",
+        "timestamp": 1793030710921
+      },
+      {
+        "executionId": "ca7f2679-1c6d-4a31-bf77-335bde570dda",
+        "chatSessionId": "sess_634101db-e3de-476d-8be6-c6f4654c6648",
+        "timestamp": 1793034244708
+      },
+      {
+        "executionId": "ca7f2679-1c6d-4a31-bf77-335bde570dda",
+        "chatSessionId": "sess_634101db-e3de-476d-8be6-c6f4654c6648",
+        "timestamp": 1793035134240
+      }
+    ],
+    "4.4 Implement data retention and cleanup": [
+      {
+        "executionId": "fdf87b49-a957-4617-9842-e49388e77e70",
+        "chatSessionId": "sess_634101db-e3de-476d-8be6-c6f4654c6648",
+        "timestamp": 1793030710967
+      },
+      {
+        "executionId": "ca7f2679-1c6d-4a31-bf77-335bde570dda",
+        "chatSessionId": "sess_634101db-e3de-476d-8be6-c6f4654c6648",
+        "timestamp": 1793034246059
+      },
+      {
+        "executionId": "ca7f2679-1c6d-4a31-bf77-335bde570dda",
+        "chatSessionId": "sess_634101db-e3de-476d-8be6-c6f4654c6648",
+        "timestamp": 1793035135126
+      }
+    ],
+    "5.1 Define Pydantic models in `backend/models.py`": [
+      {
+        "executionId": "fdf87b49-a957-4617-9842-e49388e77e70",
+        "chatSessionId": "sess_634101db-e3de-476d-8be6-c6f4654c6648",
+        "timestamp": 1793030711011
+      },
+      {
+        "executionId": "ca7f2679-1c6d-4a31-bf77-335bde570dda",
+        "chatSessionId": "sess_634101db-e3de-476d-8be6-c6f4654c6648",
+        "timestamp": 1793033675818
+      },
+      {
+        "executionId": "ca7f2679-1c6d-4a31-bf77-335bde570dda",
+        "chatSessionId": "sess_634101db-e3de-476d-8be6-c6f4654c6648",
+        "timestamp": 1793034219729
+      }
+    ],
+    "6. Checkpoint - Ensure database and models work correctly": [
+      {
+        "executionId": "fdf87b49-a957-4617-9842-e49388e77e70",
+        "chatSessionId": "sess_634101db-e3de-476d-8be6-c6f4654c6648",
+        "timestamp": 1793030711059
+      }
+    ],
+    "7.1 Create WebSocket manager in `backend/websocket_manager.py`": [
+      {
+        "executionId": "fdf87b49-a957-4617-9842-e49388e77e70",
+        "chatSessionId": "sess_634101db-e3de-476d-8be6-c6f4654c6648",
+        "timestamp": 1793030711131
+      },
+      {
+        "executionId": "7fdfbe8f-964f-4366-b559-177517d7d9b0",
+        "chatSessionId": "sess_634101db-e3de-476d-8be6-c6f4654c6648",
+        "timestamp": 1793035594190
+      },
+      {
+        "executionId": "7fdfbe8f-964f-4366-b559-177517d7d9b0",
+        "chatSessionId": "sess_634101db-e3de-476d-8be6-c6f4654c6648",
+        "timestamp": 1793035800031
+      }
+    ],
+    "8.1 Implement MQTT client in `backend/mqtt_client.py`": [
+      {
+        "executionId": "fdf87b49-a957-4617-9842-e49388e77e70",
+        "chatSessionId": "sess_634101db-e3de-476d-8be6-c6f4654c6648",
+        "timestamp": 1793030711201
+      },
+      {
+        "executionId": "7fdfbe8f-964f-4366-b559-177517d7d9b0",
+        "chatSessionId": "sess_634101db-e3de-476d-8be6-c6f4654c6648",
+        "timestamp": 1793035806241
+      },
+      {
+        "executionId": "e1e0b79e-b6af-4245-844c-eee1163c87f3",
+        "chatSessionId": "sess_634101db-e3de-476d-8be6-c6f4654c6648",
+        "timestamp": 1793094048244
+      }
+    ],
+    "8.2 Implement MQTT message processing": [
+      {
+        "executionId": "fdf87b49-a957-4617-9842-e49388e77e70",
+        "chatSessionId": "sess_634101db-e3de-476d-8be6-c6f4654c6648",
+        "timestamp": 1793030711249
+      },
+      {
+        "executionId": "7fdfbe8f-964f-4366-b559-177517d7d9b0",
+        "chatSessionId": "sess_634101db-e3de-476d-8be6-c6f4654c6648",
+        "timestamp": 1793035806965
+      },
+      {
+        "executionId": "e1e0b79e-b6af-4245-844c-eee1163c87f3",
+        "chatSessionId": "sess_634101db-e3de-476d-8be6-c6f4654c6648",
+        "timestamp": 1793094047500
+      }
+    ],
+    "8.3 Implement graceful MQTT disconnect": [
+      {
+        "executionId": "fdf87b49-a957-4617-9842-e49388e77e70",
+        "chatSessionId": "sess_634101db-e3de-476d-8be6-c6f4654c6648",
+        "timestamp": 1793030711297
+      },
+      {
+        "executionId": "7fdfbe8f-964f-4366-b559-177517d7d9b0",
+        "chatSessionId": "sess_634101db-e3de-476d-8be6-c6f4654c6648",
+        "timestamp": 1793035808092
+      },
+      {
+        "executionId": "e1e0b79e-b6af-4245-844c-eee1163c87f3",
+        "chatSessionId": "sess_634101db-e3de-476d-8be6-c6f4654c6648",
+        "timestamp": 1793094048172
+      }
+    ],
+    "9.1 Create FastAPI app skeleton in `backend/main.py`": [
+      {
+        "executionId": "fdf87b49-a957-4617-9842-e49388e77e70",
+        "chatSessionId": "sess_634101db-e3de-476d-8be6-c6f4654c6648",
+        "timestamp": 1793030711349
+      },
+      {
+        "executionId": "e1e0b79e-b6af-4245-844c-eee1163c87f3",
+        "chatSessionId": "sess_634101db-e3de-476d-8be6-c6f4654c6648",
+        "timestamp": 1793094056486
+      },
+      {
+        "executionId": "e1e0b79e-b6af-4245-844c-eee1163c87f3",
+        "chatSessionId": "sess_634101db-e3de-476d-8be6-c6f4654c6648",
+        "timestamp": 1793094071356
+      }
+    ],
+    "9.2 Implement health and status endpoints": [
+      {
+        "executionId": "fdf87b49-a957-4617-9842-e49388e77e70",
+        "chatSessionId": "sess_634101db-e3de-476d-8be6-c6f4654c6648",
+        "timestamp": 1793030711403
+      },
+      {
+        "executionId": "e1e0b79e-b6af-4245-844c-eee1163c87f3",
+        "chatSessionId": "sess_634101db-e3de-476d-8be6-c6f4654c6648",
+        "timestamp": 1793094056687
+      }
+    ],
+    "9.3 Implement readings query endpoints": [
+      {
+        "executionId": "fdf87b49-a957-4617-9842-e49388e77e70",
+        "chatSessionId": "sess_634101db-e3de-476d-8be6-c6f4654c6648",
+        "timestamp": 1793030711457
+      },
+      {
+        "executionId": "e1e0b79e-b6af-4245-844c-eee1163c87f3",
+        "chatSessionId": "sess_634101db-e3de-476d-8be6-c6f4654c6648",
+        "timestamp": 1793094057004
+      }
+    ],
+    "9.4 Implement alerts and configuration endpoints": [
+      {
+        "executionId": "fdf87b49-a957-4617-9842-e49388e77e70",
+        "chatSessionId": "sess_634101db-e3de-476d-8be6-c6f4654c6648",
+        "timestamp": 1793030711508
+      },
+      {
+        "executionId": "e1e0b79e-b6af-4245-844c-eee1163c87f3",
+        "chatSessionId": "sess_634101db-e3de-476d-8be6-c6f4654c6648",
+        "timestamp": 1793094057540
+      }
+    ],
+    "9.5 Implement WebSocket endpoint": [
+      {
+        "executionId": "fdf87b49-a957-4617-9842-e49388e77e70",
+        "chatSessionId": "sess_634101db-e3de-476d-8be6-c6f4654c6648",
+        "timestamp": 1793030711594
+      },
+      {
+        "executionId": "e1e0b79e-b6af-4245-844c-eee1163c87f3",
+        "chatSessionId": "sess_634101db-e3de-476d-8be6-c6f4654c6648",
+        "timestamp": 1793094057589
+      }
+    ],
+    "10.1 Implement simulator control in `backend/main.py`": [
+      {
+        "executionId": "fdf87b49-a957-4617-9842-e49388e77e70",
+        "chatSessionId": "sess_634101db-e3de-476d-8be6-c6f4654c6648",
+        "timestamp": 1793030711645
+      },
+      {
+        "executionId": "e1e0b79e-b6af-4245-844c-eee1163c87f3",
+        "chatSessionId": "sess_634101db-e3de-476d-8be6-c6f4654c6648",
+        "timestamp": 1793094057853
+      }
+    ],
+    "11.1 Complete startup event handler": [
+      {
+        "executionId": "fdf87b49-a957-4617-9842-e49388e77e70",
+        "chatSessionId": "sess_634101db-e3de-476d-8be6-c6f4654c6648",
+        "timestamp": 1793030711704
+      },
+      {
+        "executionId": "e1e0b79e-b6af-4245-844c-eee1163c87f3",
+        "chatSessionId": "sess_634101db-e3de-476d-8be6-c6f4654c6648",
+        "timestamp": 1793094058032
+      }
+    ],
+    "11.2 Implement cleanup background task": [
+      {
+        "executionId": "fdf87b49-a957-4617-9842-e49388e77e70",
+        "chatSessionId": "sess_634101db-e3de-476d-8be6-c6f4654c6648",
+        "timestamp": 1793030711759
+      },
+      {
+        "executionId": "e1e0b79e-b6af-4245-844c-eee1163c87f3",
+        "chatSessionId": "sess_634101db-e3de-476d-8be6-c6f4654c6648",
+        "timestamp": 1793094058404
+      }
+    ],
+    "11.3 Complete shutdown event handler": [
+      {
+        "executionId": "fdf87b49-a957-4617-9842-e49388e77e70",
+        "chatSessionId": "sess_634101db-e3de-476d-8be6-c6f4654c6648",
+        "timestamp": 1793030711812
+      },
+      {
+        "executionId": "e1e0b79e-b6af-4245-844c-eee1163c87f3",
+        "chatSessionId": "sess_634101db-e3de-476d-8be6-c6f4654c6648",
+        "timestamp": 1793094058437
+      }
+    ],
+    "12. Checkpoint - Ensure backend service runs and connects": [
+      {
+        "executionId": "fdf87b49-a957-4617-9842-e49388e77e70",
+        "chatSessionId": "sess_634101db-e3de-476d-8be6-c6f4654c6648",
+        "timestamp": 1793030711868
+      }
+    ],
+    "13.1 Create sensor simulator in `sensor/simulator.py`": [
+      {
+        "executionId": "fdf87b49-a957-4617-9842-e49388e77e70",
+        "chatSessionId": "sess_634101db-e3de-476d-8be6-c6f4654c6648",
+        "timestamp": 1793030711921
+      }
+    ],
+    "13.2 Implement temperature generation and publishing": [
+      {
+        "executionId": "fdf87b49-a957-4617-9842-e49388e77e70",
+        "chatSessionId": "sess_634101db-e3de-476d-8be6-c6f4654c6648",
+        "timestamp": 1793030711969
+      }
+    ],
+    "13.3 Implement graceful shutdown": [
+      {
+        "executionId": "fdf87b49-a957-4617-9842-e49388e77e70",
+        "chatSessionId": "sess_634101db-e3de-476d-8be6-c6f4654c6648",
+        "timestamp": 1793030712020
+      }
+    ],
+    "13.4 Add simulator main entry point": [
+      {
+        "executionId": "fdf87b49-a957-4617-9842-e49388e77e70",
+        "chatSessionId": "sess_634101db-e3de-476d-8be6-c6f4654c6648",
+        "timestamp": 1793030712093
+      }
+    ],
+    "14. Checkpoint - Ensure sensor connects and publishes": [
+      {
+        "executionId": "fdf87b49-a957-4617-9842-e49388e77e70",
+        "chatSessionId": "sess_634101db-e3de-476d-8be6-c6f4654c6648",
+        "timestamp": 1793030712151
+      }
+    ],
+    "15.1 Initialize React project with Vite": [
+      {
+        "executionId": "fdf87b49-a957-4617-9842-e49388e77e70",
+        "chatSessionId": "sess_634101db-e3de-476d-8be6-c6f4654c6648",
+        "timestamp": 1793030712200
+      },
+      {
+        "executionId": "ca7f2679-1c6d-4a31-bf77-335bde570dda",
+        "chatSessionId": "sess_634101db-e3de-476d-8be6-c6f4654c6648",
+        "timestamp": 1793032330616
+      },
+      {
+        "executionId": "ca7f2679-1c6d-4a31-bf77-335bde570dda",
+        "chatSessionId": "sess_634101db-e3de-476d-8be6-c6f4654c6648",
+        "timestamp": 1793033667278
+      }
+    ],
+    "15.2 Create CSS design system in `src/App.css`": [
+      {
+        "executionId": "fdf87b49-a957-4617-9842-e49388e77e70",
+        "chatSessionId": "sess_634101db-e3de-476d-8be6-c6f4654c6648",
+        "timestamp": 1793030712247
+      },
+      {
+        "executionId": "ca7f2679-1c6d-4a31-bf77-335bde570dda",
+        "chatSessionId": "sess_634101db-e3de-476d-8be6-c6f4654c6648",
+        "timestamp": 1793033676115
+      },
+      {
+        "executionId": "ca7f2679-1c6d-4a31-bf77-335bde570dda",
+        "chatSessionId": "sess_634101db-e3de-476d-8be6-c6f4654c6648",
+        "timestamp": 1793034220864
+      }
+    ],
+    "16.1 Create API client utilities in `src/utils/api.js`": [
+      {
+        "executionId": "fdf87b49-a957-4617-9842-e49388e77e70",
+        "chatSessionId": "sess_634101db-e3de-476d-8be6-c6f4654c6648",
+        "timestamp": 1793030712295
+      },
+      {
+        "executionId": "ca7f2679-1c6d-4a31-bf77-335bde570dda",
+        "chatSessionId": "sess_634101db-e3de-476d-8be6-c6f4654c6648",
+        "timestamp": 1793034246331
+      },
+      {
+        "executionId": "ca7f2679-1c6d-4a31-bf77-335bde570dda",
+        "chatSessionId": "sess_634101db-e3de-476d-8be6-c6f4654c6648",
+        "timestamp": 1793035135912
+      }
+    ],
+    "17.1 Create useWebSocket custom hook in `src/hooks/useWebSocket.js`": [
+      {
+        "executionId": "fdf87b49-a957-4617-9842-e49388e77e70",
+        "chatSessionId": "sess_634101db-e3de-476d-8be6-c6f4654c6648",
+        "timestamp": 1793030712344
+      },
+      {
+        "executionId": "ca7f2679-1c6d-4a31-bf77-335bde570dda",
+        "chatSessionId": "sess_634101db-e3de-476d-8be6-c6f4654c6648",
+        "timestamp": 1793034247594
+      },
+      {
+        "executionId": "ca7f2679-1c6d-4a31-bf77-335bde570dda",
+        "chatSessionId": "sess_634101db-e3de-476d-8be6-c6f4654c6648",
+        "timestamp": 1793035136848
+      }
+    ],
+    "18.1 Create App component in `src/App.jsx`": [
+      {
+        "executionId": "fdf87b49-a957-4617-9842-e49388e77e70",
+        "chatSessionId": "sess_634101db-e3de-476d-8be6-c6f4654c6648",
+        "timestamp": 1793030712391
+      }
+    ],
+    "18.2 Create Header component in `src/components/Header.jsx`": [
+      {
+        "executionId": "fdf87b49-a957-4617-9842-e49388e77e70",
+        "chatSessionId": "sess_634101db-e3de-476d-8be6-c6f4654c6648",
+        "timestamp": 1793030712441
+      }
+    ],
+    "19.1 Create SystemStatus component in `src/components/SystemStatus.jsx`": [
+      {
+        "executionId": "fdf87b49-a957-4617-9842-e49388e77e70",
+        "chatSessionId": "sess_634101db-e3de-476d-8be6-c6f4654c6648",
+        "timestamp": 1793030712539
+      }
+    ],
+    "20.1 Create KPICards component in `src/components/KPICards.jsx`": [
+      {
+        "executionId": "fdf87b49-a957-4617-9842-e49388e77e70",
+        "chatSessionId": "sess_634101db-e3de-476d-8be6-c6f4654c6648",
+        "timestamp": 1793030712585
+      }
+    ],
+    "21.1 Create LiveTemperature component in `src/components/LiveTemperature.jsx`": [
+      {
+        "executionId": "fdf87b49-a957-4617-9842-e49388e77e70",
+        "chatSessionId": "sess_634101db-e3de-476d-8be6-c6f4654c6648",
+        "timestamp": 1793030712632
+      }
+    ],
+    "22.1 Create TemperatureChart component in `src/components/TemperatureChart.jsx`": [
+      {
+        "executionId": "fdf87b49-a957-4617-9842-e49388e77e70",
+        "chatSessionId": "sess_634101db-e3de-476d-8be6-c6f4654c6648",
+        "timestamp": 1793030712679
+      }
+    ],
+    "23.1 Create AlertsPanel component in `src/components/AlertsPanel.jsx`": [
+      {
+        "executionId": "fdf87b49-a957-4617-9842-e49388e77e70",
+        "chatSessionId": "sess_634101db-e3de-476d-8be6-c6f4654c6648",
+        "timestamp": 1793030712726
+      }
+    ],
+    "24.1 Create RecentReadings component in `src/components/RecentReadings.jsx`": [
+      {
+        "executionId": "fdf87b49-a957-4617-9842-e49388e77e70",
+        "chatSessionId": "sess_634101db-e3de-476d-8be6-c6f4654c6648",
+        "timestamp": 1793030712775
+      }
+    ],
+    "25.1 Create ThresholdConfig component in `src/components/ThresholdConfig.jsx`": [
+      {
+        "executionId": "fdf87b49-a957-4617-9842-e49388e77e70",
+        "chatSessionId": "sess_634101db-e3de-476d-8be6-c6f4654c6648",
+        "timestamp": 1793030712835
+      }
+    ],
+    "26.1 Create SimulatorControls component in `src/components/SimulatorControls.jsx`": [
+      {
+        "executionId": "fdf87b49-a957-4617-9842-e49388e77e70",
+        "chatSessionId": "sess_634101db-e3de-476d-8be6-c6f4654c6648",
+        "timestamp": 1793030712889
+      }
+    ],
+    "27.1 Add error handling to all components": [
+      {
+        "executionId": "fdf87b49-a957-4617-9842-e49388e77e70",
+        "chatSessionId": "sess_634101db-e3de-476d-8be6-c6f4654c6648",
+        "timestamp": 1793030712944
+      }
+    ],
+    "28.1 Integrate all components in App.jsx with responsive grid": [
+      {
+        "executionId": "fdf87b49-a957-4617-9842-e49388e77e70",
+        "chatSessionId": "sess_634101db-e3de-476d-8be6-c6f4654c6648",
+        "timestamp": 1793030712993
+      }
+    ],
+    "29. Checkpoint - Ensure dashboard displays data correctly": [
+      {
+        "executionId": "fdf87b49-a957-4617-9842-e49388e77e70",
+        "chatSessionId": "sess_634101db-e3de-476d-8be6-c6f4654c6648",
+        "timestamp": 1793030713041
+      }
+    ],
+    "31.1 Create comprehensive README.md": [
+      {
+        "executionId": "fdf87b49-a957-4617-9842-e49388e77e70",
+        "chatSessionId": "sess_634101db-e3de-476d-8be6-c6f4654c6648",
+        "timestamp": 1793030713087
+      }
+    ],
+    "31.2 Add code comments and docstrings": [
+      {
+        "executionId": "fdf87b49-a957-4617-9842-e49388e77e70",
+        "chatSessionId": "sess_634101db-e3de-476d-8be6-c6f4654c6648",
+        "timestamp": 1793030713136
+      }
+    ],
+    "32.1 Complete system startup and verification": [
+      {
+        "executionId": "fdf87b49-a957-4617-9842-e49388e77e70",
+        "chatSessionId": "sess_634101db-e3de-476d-8be6-c6f4654c6648",
+        "timestamp": 1793030713184
+      }
+    ],
+    "32.2 Graceful shutdown verification": [
+      {
+        "executionId": "fdf87b49-a957-4617-9842-e49388e77e70",
+        "chatSessionId": "sess_634101db-e3de-476d-8be6-c6f4654c6648",
+        "timestamp": 1793030713231
+      }
+    ],
+    "2. Backend configuration loader module": [
+      {
+        "executionId": "ca7f2679-1c6d-4a31-bf77-335bde570dda",
+        "chatSessionId": "sess_634101db-e3de-476d-8be6-c6f4654c6648",
+        "timestamp": 1793033666046
+      }
+    ],
+    "3. Backend logging setup": [
+      {
+        "executionId": "ca7f2679-1c6d-4a31-bf77-335bde570dda",
+        "chatSessionId": "sess_634101db-e3de-476d-8be6-c6f4654c6648",
+        "timestamp": 1793033666838
+      }
+    ],
+    "5. Backend data models": [
+      {
+        "executionId": "ca7f2679-1c6d-4a31-bf77-335bde570dda",
+        "chatSessionId": "sess_634101db-e3de-476d-8be6-c6f4654c6648",
+        "timestamp": 1793034219807
+      }
+    ],
+    "15. React frontend project setup": [
+      {
+        "executionId": "ca7f2679-1c6d-4a31-bf77-335bde570dda",
+        "chatSessionId": "sess_634101db-e3de-476d-8be6-c6f4654c6648",
+        "timestamp": 1793034220933
+      }
+    ],
+    "4. Database layer implementation": [
+      {
+        "executionId": "ca7f2679-1c6d-4a31-bf77-335bde570dda",
+        "chatSessionId": "sess_634101db-e3de-476d-8be6-c6f4654c6648",
+        "timestamp": 1793035135194
+      }
+    ],
+    "16. Frontend HTTP API client": [
+      {
+        "executionId": "ca7f2679-1c6d-4a31-bf77-335bde570dda",
+        "chatSessionId": "sess_634101db-e3de-476d-8be6-c6f4654c6648",
+        "timestamp": 1793035135993
+      }
+    ],
+    "17. WebSocket connection hook": [
+      {
+        "executionId": "ca7f2679-1c6d-4a31-bf77-335bde570dda",
+        "chatSessionId": "sess_634101db-e3de-476d-8be6-c6f4654c6648",
+        "timestamp": 1793035136917
+      }
+    ],
+    "7. WebSocket manager implementation": [
+      {
+        "executionId": "7fdfbe8f-964f-4366-b559-177517d7d9b0",
+        "chatSessionId": "sess_634101db-e3de-476d-8be6-c6f4654c6648",
+        "timestamp": 1793035800146
+      }
+    ],
+    "9. FastAPI application and HTTP endpoints": [
+      {
+        "executionId": "e1e0b79e-b6af-4245-844c-eee1163c87f3",
+        "chatSessionId": "sess_634101db-e3de-476d-8be6-c6f4654c6648",
+        "timestamp": 1793094057629
+      }
+    ],
+    "10. Simulator control endpoints": [
+      {
+        "executionId": "e1e0b79e-b6af-4245-844c-eee1163c87f3",
+        "chatSessionId": "sess_634101db-e3de-476d-8be6-c6f4654c6648",
+        "timestamp": 1793094057888
+      }
+    ]
+  }
+}
